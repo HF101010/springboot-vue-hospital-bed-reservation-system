@@ -1,0 +1,23 @@
+# General
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Frontend
+HospitalManagement.elementui/node_modules/
+HospitalManagement.elementui/dist/
+HospitalManagement.elementui/.cache/
+
+# Backend
+HospitalManagement.springboot/target/
+HospitalManagement.springboot/logs/
+HospitalManagement.springboot/*.log
+
+# OS / temp
+*.tmp
+*.temp
+*.swp
